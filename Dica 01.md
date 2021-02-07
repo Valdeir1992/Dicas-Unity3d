@@ -4,11 +4,21 @@ A janela **Inspector** ( às vezes referida como "the inspector") exibe informa�
 
 Manter o **Inspector** organizado é importante, entre outras coisas, para evitar equívocos na introdução de dados para testar e ajustar os comportamentos criados facilitando tanto o trabalho de outros programadores no projeto e de outros membros como game designers.
 
-Dentre as diversas ferramentas fornecidas nativamente pela Unity3D os **atributos** são de longe uma excelente opção para organizar o **inspector**. 
+Dentre as diversas ferramentas fornecidas nativamente pela Unity3D os **atributos** são de longe uma excelente opção para organizar o **Inspector**. 
 
-##Atributos
+**Figura 01  - Seleção de camera vista no Inspector**
 
-São marcadores que podem ser posicionados acima de classes, propriedades ou funções em um script para indicar um comportamento especial. Por exemplo, [HideInInspector] que pode ser adicionado a uma propriedade para prevenir que a mesma seja exibida no **inspector**.
+![image-20210207121949457](C:\Users\valdeir\AppData\Roaming\Typora\typora-user-images\image-20210207121949457.png)
 
+ **Fonte: O autor.**
 
+## Atributos
+
+São marcadores que podem ser posicionados acima de classes, propriedades ou funções em um script para indicar um comportamento especial. Por exemplo, **[HideInInspector]** que pode ser adicionado a uma propriedade para prevenir que a mesma seja exibida no **inspector**.
+
+**Figura 02 - Script utilizando o atributo "HideInInspector" e Inspector do GameObject.**
+
+![VisaoScript](C:\Users\valdeir\Desktop\VisaoScript.png)
+
+**Fonte: O autor.**
 
