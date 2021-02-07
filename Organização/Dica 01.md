@@ -8,7 +8,7 @@ Dentre as diversas ferramentas fornecidas nativamente pela Unity3D os **atributo
 
 **Figura 01  - Seleção de camera vista no Inspector**
 
-![image-20210207121949457](C:\Users\valdeir\AppData\Roaming\Typora\typora-user-images\image-20210207121949457.png)
+![Inspector](https://i.imgur.com/2l5HR6T.png)
 
  **Fonte: O autor.**
 
@@ -18,7 +18,7 @@ São marcadores que podem ser posicionados acima de classes, propriedades ou fun
 
 **Figura 02 - Script utilizando o atributo "HideInInspector" e Inspector do GameObject.**
 
-![VisaoScript](C:\Users\valdeir\Desktop\VisaoScript.png)
+![VisaoScript](https://i.imgur.com/xoEDiOo.png)
 
 **Fonte: O autor.**
 
