@@ -1,0 +1,1 @@
+O presente repositório tem como objeto armazenar informações relativas à engine Unity 3D em especial técnicas e informações que ajudaram programadores iniciantes a melhorar sua interação com a engine, disponibilizando todo o material em português e de forma gratuita. 
